@@ -1,0 +1,34 @@
+TEMPLATE 1.1 - Intro to video for understanding a template
+TEMPLATE 1.2 - Cleaning the template
+TEMPLATE 1.3 - Copying the template
+TEMPLATE 1.4 - Using the new project files
+TEMPLATE 1.5 - Outro to video for template
+
+
+
+TEMPLATE 1.1 - Intro to video for understanding a template
+Chris from Codify Academy here.
+In this video i'm going to show you why we created a template folder in the last video.
+
+
+
+TEMPLATE 1.2 - Cleaning the template
+A Quick Remember with shortcuts Control is for PC and Command is for MAC.
+Before we can use this template, we need to clear out the CSS we wrote before so click into the main.css file use the shortcut, hit control or command a to highlight all the text and then delete it. Then save with control or command+s and in google refresh with the shortcut control or command+r. We should just have a blank page for our template.
+
+
+
+
+TEMPLATE 1.3 - Copying the template
+Very soon we are going to start building projects and we don't want to have to create this file and folder structure each time, so close done any open files, and right click on the template folder and choose duplicate, be careful as it is dangerously close to delete, remember you can always undo with control or command-z. You can drag the duplicate to any folder you want, for this one move it to week one. left click that folder to reveal the contents. and rename the folder by right clicking and selecting rename, update it to anything you'd like. we're gonna call it test
+
+
+
+
+TEMPLATE 1.4 - Using the new project files
+So now we have a folder that can be used when we start the coding exercise later.  You're going repeat this process for all the new project and exercises you start. We can go into the index.html file and add some content, between the body tags type Coding Test. click the file path down here to copy it and paste it using control or command+v in a new browser tab.
+
+
+
+TEMPLATE 1.5 - Outro to video for template
+This is why we built a template so we can start projects quickly.
